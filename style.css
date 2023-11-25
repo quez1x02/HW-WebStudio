@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Roboto:wght@400;500&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.logo{
+    font-family: 'Raleway', sans-serif; 
+}
+
+header{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+.card-img{
+    height: 260px;
+    width: 270px;
+}
+.member-card{
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.header-button{
+    text-align: center;
+}
+.feature{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+main{
+    width: 100%;
+}
+.features{
+    margin-left: 250px;
+}
